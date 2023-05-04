@@ -4,6 +4,12 @@
 1. Clone the application.
 ```bash
 git clone https://github.com/wallwpcab/Task_1_tests/
+
+For installing dependencies use 
+''' bash
+npm init -y
+
+
 ```
 2. Packages install via this command.       
 ```bash
